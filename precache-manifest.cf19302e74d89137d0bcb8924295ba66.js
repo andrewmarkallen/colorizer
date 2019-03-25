@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/colorizer/static/css/main.fac23d66.chunk.css"
   },
   {
-    "revision": "2cfc9c136efeec6e8007b73c4d1b6fd4",
+    "revision": "8acfbed366a06d5f49dcee300da9de1c",
     "url": "/colorizer/index.html"
   }
 ];
