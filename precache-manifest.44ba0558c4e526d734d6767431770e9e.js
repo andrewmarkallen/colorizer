@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/colorizer/static/js/runtime~main.07194b1a.js"
   },
   {
-    "revision": "e0255e035f3567d7de6e",
-    "url": "/colorizer/static/js/main.3c1b1b97.chunk.js"
+    "revision": "b5c2e663fb390e3ec2c4",
+    "url": "/colorizer/static/js/main.071943c2.chunk.js"
   },
   {
     "revision": "ccdf85a272b151ebd001",
     "url": "/colorizer/static/js/2.7b7f7f25.chunk.js"
   },
   {
-    "revision": "e0255e035f3567d7de6e",
+    "revision": "b5c2e663fb390e3ec2c4",
     "url": "/colorizer/static/css/main.fac23d66.chunk.css"
   },
   {
-    "revision": "7b8a19db16bae29398cb339a1c193246",
+    "revision": "c3ef9f55590dd9acff85dcb8489e8010",
     "url": "/colorizer/index.html"
   }
 ];
